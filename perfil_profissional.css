@@ -1,0 +1,263 @@
+.perfil-profissional .seta-direita-1 {
+  background: url('images/seta_direita_1.png') 50% / cover no-repeat;
+  margin-bottom: 9px;
+  width: 30px;
+  height: 30px;
+  transform:rotate(180deg);
+
+}
+.perfil-profissional .task-master {
+  margin: 5px 0 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 26px;
+  color: #FFFFFF;
+}
+.perfil-profissional .silhueta-negra-de-casa-sem-porta-21 {
+  background: 50% / cover no-repeat;
+  margin-top: 4px;
+  width: 35px;
+  height: 35px;
+}
+.perfil-profissional .group-57 {
+  background: #333333;
+  position: relative;
+  margin-bottom: 102px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 23px 23px 22px 15px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.perfil-profissional .default-draw-aface-man-in-color-31 {
+  border-radius: 75px;
+  background: url('images/default_draw_aface_man_in_color_321.jpeg') 50% / cover no-repeat;
+  margin: 0 1px 12px 0;
+  width: 128px;
+  height: 128px;
+}
+.perfil-profissional .joo-dos-santos {
+  margin: 0 1px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.perfil-profissional .cabelereiro {
+  margin-right: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.perfil-profissional .image-17 {
+  color: black;
+  background: url('images/image_18.png') 50% / cover no-repeat;
+  margin: 8px 0 7.4px 0;
+  width: 120px;
+  height: 14.6px;
+}
+.perfil-profissional .compartilhar-2 {
+  background: url('images/compartilhar_3.png') gold 50% / cover no-repeat;
+  position: absolute;
+  width: 30px;
+  border-radius: 40%;
+  overflow: hidden;
+  height: 30px;
+  right: 10px;
+  cursor: pointer;
+  z-index: 1;
+  
+}
+.perfil-profissional .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  width: 200px;
+  box-sizing: border-box;
+}
+.perfil-profissional .container {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #ffffff;
+  position: relative;
+  margin: 0 0 51px 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: center;
+  padding: 24px 9px 10px 9px;
+  width: 297px;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.perfil-profissional .experincia-10-anos-como-cabelereiro-ebarbeiro-idade-35-anos-formao-2-grau-completo-estado-civil-casado-cursos-profissionalizantes-corte-ebarba-bsico-ao-avanado-obs-sempre-atento-ao-mercado-buscando-novas-experincias-eaprendizados {
+  margin: 0 40.3px 31px 30px;
+  margin-top: -30px;
+  align-items: center;
+  align-self: center;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.perfil-profissional .catlogo-de-servios {
+  margin: 0 100px 15px 520px;
+  margin-top: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.perfil-profissional .ellipse-1 {
+  margin: 0 500px 31px 800px;
+  align-items: center;
+  background: #ffffff;
+  width: 10px;
+  height: 10px;
+  cursor: pointer;
+}
+.checkbox {
+  margin: 0 500px 31px 800px;
+  border: 1px solid #000000;
+  align-items: center;
+  background: #d55151;
+  width: 10px;
+  height: 10px;
+  cursor: pointer;
+}
+.marcado {
+  background-color: rgb(0, 17, 255); /* Cor de fundo quando marcado */
+}
+
+.marcado::before,
+.marcado::after {
+  content: "X";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 24px;
+  color: #c32222;
+}
+
+.marcado::after {
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+.perfil-profissional .ellipse-2 {
+  margin: 0 500px 31px 800px;
+  margin-top: -12px;
+  align-items: center;
+  background: #ffffff;
+  width: 10px;
+  height: 10px;
+  cursor: pointer;
+}
+.perfil-profissional .ellipse-3 {
+  margin: 0 500px 31px 950px;
+  margin-top: -12px;
+  align-items: center;
+  background: #ffffff;
+  width: 10px;
+  height: 10px;
+  cursor: pointer;
+}
+.perfil-profissional .ellipse-4 {
+  margin: 0 500px 31px 800px;
+  margin-top: -12px;
+  align-items: center;
+  background: #ffffff;
+  width: 10px;
+  height: 10px;
+  cursor: pointer;
+}
+.perfil-profissional .ellipse-5 {
+  margin: 0 500px 31px 800px;
+  margin-top: -12px;
+  align-items: center;
+  background: #ffffff;
+  width: 10px;
+  height: 10px;
+  cursor: pointer;
+}
+.perfil-profissional .ellipse-6 {
+  margin: 0 500px 31px 0px;
+  margin-top: -12px;
+  align-items: center;
+  background: #ffffff;
+  width: 10px;
+  height: 10px;
+  cursor: pointer;
+}
+.perfil-profissional .ellipse-7 {
+  margin: 0 500px 31px 0px;
+  margin-top: -12px;
+  align-items: center;
+  background: #ffffff;
+  width: 10px;
+  height: 10px;
+  cursor: pointer;
+}
+.perfil-profissional .ir-para-ocarrinho {
+  position: relative;
+  margin-right: 750px;
+  border: 0.2px solid #000000;
+  font-weight: 300;
+  font-size: 15px;
+  width: 20%;
+  position: center;
+  color: #000000;
+  text-align: center;
+  background-color: gold;
+  cursor: pointer;
+}
+.perfil-profissional .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.perfil-profissional .rectangle-111 {
+  background: linear-gradient(90deg, rgba(129, 188, 243, 0.5), rgba(1, 92, 174, 0.5), rgba(62, 162, 253, 0.5));
+  position: absolute;
+  left: 9px;
+  top: 93px;
+  right: 0px;
+  height: 180px;
+  width: 98.9%;
+}
+.perfil-profissional .corte-masculino-r-3000-corte-feminino-r-8000-barba-r-3000-escova-progressiva-r-12000-pintura-homem-r-8000-pintura-mulher-r-15000-hidratao-r-8000-atendimento-domiciliar-ou-horrio-marcado-apartir-das-1400 {
+  position: absolute;
+  margin: 0 0px 0px 520px;
+  margin-top: 627px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.perfil-profissional {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}

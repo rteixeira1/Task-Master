@@ -1,0 +1,253 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin-left: -50;
+    padding: 0;
+    font-family: arial;
+    text-decoration: none;
+    color: inherit;
+    min-width: 1320px;
+    max-width: 2300px;
+}
+
+.jumbo {
+    background-color: white;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: auto;
+    height: auto%;
+    background-position: 0% 0%
+}
+
+.container {
+    width: 100%;
+    align-items: center;
+    padding-top: 12.0cm;
+    float:right;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 1rem;
+    justify-content: center;
+}
+
+.box {
+    width: calc(10% - 2rem);
+    height: 10rem;
+    margin: 1.0em 1em;
+    box-sizing: border-box;
+    display: flex;
+    position: relative;
+    border-radius: 25px;
+    border: solid 2px;
+    border-color: black;
+
+
+}
+
+.image,
+.p2,
+.p3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: blue;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: #ffffff;
+    border-radius: 25px 25px 25px 25px;
+    background-color: black;
+}
+
+.image{
+    flex-grow: 2;
+    background-color: #ffffff;
+    color:black;
+    position: right;
+    margin-top: 20px;
+}
+
+.p2 {
+    flex-grow: 1;
+    background-color: #000000;
+    position: absolute;
+    color: #ffffff;
+    right: 0;
+    left: 0;
+    top: 0px;
+    height: 40px;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.seta-direita-1 {
+    background: url('../assets/images/seta_direita_1.png') 50% / cover no-repeat;
+    margin-bottom: 9px;
+    width: 30px;
+    height: 30px;
+    transform:rotate(180deg);
+}
+.task-master {
+    margin: 5px 0 3px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 800;
+    font-size: 26px;
+    color: #FFFFFF;
+}
+.silhueta-negra-de-casa-sem-porta-21 {
+    background: 50% / cover no-repeat;
+    margin-top: 4px;
+    width: 35px;
+    height: 35px;
+}
+.group-57 {
+
+    background: #333333;
+    position: relative;
+    margin-bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 13px 10px 10px 10px;
+    width: 99%;
+    box-sizing: border-box;
+}
+.servios-de-beleza {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    display: flex;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+    align-content: center;
+    justify-content: center;
+}
+.box:hover {
+    border-color: #AB0D0D;
+    border-width: 3px;
+
+}
+
+.joao a {
+    text-decoration: none;
+    color: inherit;
+}
+.containerProfissionais2 {
+    width: 100%;
+    align-items: center;
+    padding-top: 12.0cm;
+    float:right;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 1rem;
+    justify-content: center;
+}
+
+.profissionais {
+    position: relative;
+    padding-top: 50px;
+    padding-left: 290px;
+}
+.joao{
+    border-radius: 50px;
+    border: solid 1px;
+    border-color: grey;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    margin-right: 500px;
+    width: 350px;
+}
+.imageJoao{
+    position: absolute;
+    margin-left: 0.2px;
+}
+.dadosjoao{
+    position: relative;
+    padding-left: 100px;
+}
+
+.alberto{
+    border-radius: 50px;
+    border: solid 1px;
+    border-color: grey;
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    margin-right: 900px;
+    width: 350px;
+}
+.imagealberto{
+    position: absolute;
+    margin-left: 0.2px;
+}
+.dadosalberto {
+    position: relative;
+    padding-left: 100px;
+}
+
+.aline{
+    border-radius: 50px;
+    border: solid 1px;
+    border-color: grey;
+    position: absolute;
+    margin-top: 380px;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    margin-right: 900px;
+    width: 350px;
+}
+.imagealine{
+    position: absolute;
+    margin-left: 0.2px;
+}
+.dadosaline {
+    position: relative;
+    padding-left: 100px;
+}
+.maria{
+    border-radius: 50px;
+    border: solid 1px;
+    border-color: grey;
+    position: absolute;
+    margin-top: 470px;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    margin-right: 900px;
+    width: 350px;
+}
+.imagemaria{
+    position: absolute;
+    margin-left: 0.2px;
+}
+.dadosmaria {
+    position: relative;
+    padding-left: 100px;
+}
+.gumercinda{
+    border-radius: 50px;
+    border: solid 1px;
+    border-color: grey;
+    position: absolute;
+    margin-top: 560px;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    margin-right: 900px;
+    width: 350px;
+}
+.imagegumercinda{
+    position: absolute;
+    margin-left: 0.2px;
+}
+.dadosgumercinda {
+    position: relative;
+    padding-left: 100px;
+}

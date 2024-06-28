@@ -1,0 +1,392 @@
+.conta .seta-direita-1 {
+  background: url('images/seta_direita_1.png') 50% / cover no-repeat;
+  margin-bottom: 9px;
+  width: 30px;
+  height: 30px;
+  transform:rotate(180deg);
+}
+.conta .task-master {
+  margin: 5px 0 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 26px;
+  color: #FFFFFF;
+}
+.conta .silhueta-negra-de-casa-sem-porta-21 {
+  background: 50% / cover no-repeat;
+  margin-top: 4px;
+  width: 35px;
+  height: 35px;
+}
+.conta .group-57 {
+  background: #333333;
+  position: relative;
+  margin-bottom: 102px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 23px 23px 22px 15px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.conta .default-draw-aface-man-in-color-32 {
+  position: relative;
+  transform: translate(65%, 0%);
+  border-radius: 75px;
+  background: url('images/default_draw_aface_man_in_color_32.jpeg') 50% / cover no-repeat;
+  margin-bottom: 12px;
+  width: 128px;
+  height: 128px;
+  display: flex;
+  z-index: 1;
+}
+.conta .francisco {
+  position: relative;
+  transform: translate(90%, -30%);
+  margin: 0 auto;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.conta .cabelereiro {
+  position: relative;
+  transform: translate(125%, -30%);
+  margin: 0 auto;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.conta .image-18 {
+  position: relative;
+  transform: translate(70%, -30%);
+  background: url('images/image_18.png') 50% / cover no-repeat;
+  margin: 0 4px;
+  width: 120px;
+  height: 14.6px;
+}
+.conta .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.conta .camera-1 {
+  background: url('images/camera_1.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 50%;
+  right: 64px;
+  translate: 0 -50%;
+  width: 50px;
+  height: 50px;
+  z-index: 3;
+}
+.conta .container-5 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: rgb(255, 255, 255);
+  position: relative;
+  transform: translate(0%, -5%);
+  margin: 0 auto;
+  display: flex;
+  align-self: center;
+  padding: 24px 1px 17.4px 0;
+  width: 297px;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.conta .nome-completo {
+  margin: 0 34px 6px 34px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.conta .francisco-da-cunha-alcebades {
+  margin: 0 34px 49px 34px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.conta .email {
+  position: relative;
+  transform: translate(0%, 20%);
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.conta .franciscocagmail-com {
+  position: relative;
+  transform: translate(0%, 50%);
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.conta .container-4 {
+  border-radius: 10px;
+  border: 2px solid #ffffff;
+  position: relative;
+  margin: 0 14px 32px 14px;
+  display: flex;
+  flex-direction: column;
+  padding: 8px 0 27px 20px;
+  width: calc(100% - 28px);
+  box-sizing: border-box;
+}
+.conta .senha {
+  position: relative;
+  transform: translate(0%, 10%);
+  margin: 0 30px 85px 30px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.conta .cpf {
+  position: relative;
+  transform: translate(0%, 60%);
+  margin: 0 30px 35px 30px;
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.conta .container {
+  margin: 0 30px 45px 30px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.conta .telefone {
+  position: relative;
+  transform: translate(0%, 20%);
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.conta .container-1 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.conta .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.conta .rectangle-13 {
+  background: linear-gradient(90deg, rgba(129, 188, 243, 0.5), rgba(1, 92, 174, 0.5), rgba(62, 162, 253, 0.5));
+  position: absolute;
+  left: 9px;
+  top: 92px;
+  right: 8px;
+  height: 180px;
+  z-index: 0;
+}
+.conta .rectangle-27 {
+  position: relative;
+  transform: translate(0%, 540%);
+  border-radius: 10px;
+  border: 2px solid #333333;
+  position: absolute;
+  left: 15px;
+  right: 13px;
+  bottom: 435px;
+  height: 80px;
+}
+.conta .rectangle-28 {
+  position: relative;
+  transform: translate(0%, 795%);
+  border-radius: 10px;
+  border: 2px solid #333333;
+  position: absolute;
+  left: 15px;
+  right: 13px;
+  bottom: 435px;
+  height: 80px;
+}
+.conta .ellipse-8 {
+  position: relative;
+  transform: translate(70%, 2100%);
+  border-radius: 5px;
+  background: #000000;
+  width: 10px;
+  height: 10px;
+}
+.conta .ellipse-9 {
+  position: relative;
+  transform: translate(-100px, 2100%);
+  border-radius: 5px;
+  background: #000000;
+  width: 10px;
+  height: 10px;
+}
+.conta .ellipse-10 {
+  position: relative;
+  transform: translate(-200px, 2100%);
+  border-radius: 5px;
+  background: #000000;
+  width: 10px;
+  height: 10px;
+}
+.conta .ellipse-11 {
+  position: relative;
+  transform: translate(-300px, 2100%);
+  border-radius: 5px;
+  background: #000000;
+  width: 10px;
+  height: 10px;
+}
+.conta .ellipse-12 {
+  position: relative;
+  transform: translate(-400px, 2100%);
+  border-radius: 5px;
+  background: #000000;
+  width: 10px;
+  height: 10px;
+}
+.conta .ellipse-13 {
+  position: relative;
+  transform: translate(-500px, 2100%);
+  border-radius: 5px;
+  background: #000000;
+  width: 10px;
+  height: 10px;
+}
+.conta .ellipse-14 {
+  position: relative;
+  transform: translate(-600px, 2100%);
+  border-radius: 5px;
+  background: #000000;
+  width: 10px;
+  height: 10px;
+}
+.conta .ellipse-15 {
+  position: relative;
+  transform: translate(-700px, 2100%);
+  border-radius: 5px;
+  background: #000000;
+  width: 10px;
+  height: 10px;
+}
+.conta .ellipse-16 {
+  position: relative;
+  transform: translate(-800px, 2100%);
+  border-radius: 5px;
+  background: #000000;
+  width: 10px;
+  height: 10px;
+}
+.conta .ellipse-17 {
+  position: relative;
+  transform: translate(-900px, 2100%);
+  border-radius: 5px;
+  background: #000000;
+  width: 10px;
+  height: 10px;
+}
+.conta .ellipse-18 {
+  position: relative;
+  transform: translate(-1000px, 2100%);
+  border-radius: 5px;
+  background: #000000;
+  width: 10px;
+  height: 10px;
+}
+.conta .ellipse-19 {
+  position: relative;
+  transform: translate(-1100px, 2100%);
+  border-radius: 5px;
+  background: #000000;
+  width: 10px;
+  height: 10px;
+}
+.conta .container-2 {
+  position: relative;
+  transform: translate(0px, 40%);
+  border-radius: 10px;
+  border: 2px solid #333333;
+  position: absolute;
+  left: 14px;
+  right: 14px;
+  bottom: 231px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 40px 0 30px 16px;
+  box-sizing: border-box;
+}
+.conta .rectangle-30 {
+  position: relative;
+  transform: translate(0px, 300%);
+  border-radius: 10px;
+  border: 2px solid #333333;
+  position: absolute;
+  left: 14px;
+  right: 14px;
+  bottom: 129px;
+  height: 80px;
+}
+.conta .rectangle-31 {
+  position: relative;
+  transform: translate(0px, 45%);
+  border-radius: 10px;
+  border: 2px solid #333333;
+  position: absolute;
+  left: 14px;
+  right: 14px;
+  bottom: 129px;
+  height: 80px;
+}
+.conta {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding-bottom: 26px;
+  box-sizing: border-box;
+}

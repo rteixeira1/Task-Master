@@ -1,0 +1,121 @@
+.categoria .seta-direita-1 {
+  background: url('images/seta_direita_1.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 30px;
+  height: 30px;
+  transform:rotate(180deg);
+}
+.categoria .task-master {
+  margin: 4px 0 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 26px;
+  color: #FFFFFF;
+}
+.categoria .silhueta-negra-de-casa-sem-porta-21 {
+  background: 50% / cover no-repeat;
+  margin-top: 3px;
+  width: 35px;
+  height: 35px;
+}
+.categoria .group-57 {
+  background: #333333;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 23px 22px 15px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.categoria .servios-de-beleza {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.categoria .servios-profissionais {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.categoria .servios-de-educao {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.categoria .servios-domsticos {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.categoria .servios-de-sade-eeducao {
+  margin-bottom: 24px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.categoria .servios-de-transporte {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.categoria .servios-de-eventos {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.categoria .container {
+  background: #333333;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  padding: 35px 1.8px 156px 21px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.categoria {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 350px;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}

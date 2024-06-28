@@ -1,0 +1,202 @@
+.menu .seta-direita-1 {
+  background: url('images/seta_direita_1.png') 50% / cover no-repeat;
+  margin-bottom: 5px;
+  width: 30px;
+  height: 30px;
+  transform:rotate(180deg);
+}
+.menu .task-master {
+  margin-top: 4px;
+  align-self: center;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 26px;
+  color: #FFFFFF;
+  margin: 0 auto;
+}
+.menu .group-57 {
+  background: #333333;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 0 25px 15px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.menu .conta {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.menu .categoria {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.menu .notificaes {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.menu .pagamentos {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.menu .idioma {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.menu .ajuda {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.menu .convidar-amigos {
+  margin-bottom: 24px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.menu .sair {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.menu .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.menu .notificaes-1 {
+  position: absolute;
+  left: 21px;
+  top: 141px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.menu .atualizar-informaes-de-perfil-elocalizao {
+  position: absolute;
+  left: 21px;
+  top: 60px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 100;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.58);
+}
+.menu .buscar-categoria-de-servios {
+  position: absolute;
+  left: 21px;
+  top: 113px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 100;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.58);
+}
+.menu .buscar-categoria-de-servios-1 {
+  position: absolute;
+  left: 21px;
+  top: 166px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 100;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.58);
+}
+.menu .selecionar-mtodo-de-pagamento {
+  position: absolute;
+  left: 21px;
+  top: 219px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 100;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.58);
+}
+.menu .portugus-brasil {
+  position: absolute;
+  left: 21px;
+  bottom: 247px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 100;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.58);
+}
+.menu .central-de-ajuda-fale-conosco {
+  position: absolute;
+  left: 21px;
+  bottom: 194px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 100;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.58);
+}
+.menu .container-1 {
+  background: #333333;
+  position: relative;
+  align-self: flex-start;
+  padding: 35px 21px 0 21px;
+  width: 400px;
+  height: 538px;
+  box-sizing: border-box;
+}
+.menu {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 350px;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}

@@ -1,0 +1,129 @@
+.compartilhar-profissional .seta-direita-1 {
+  background: url('images/seta_direita_1.png') 50% / cover no-repeat;
+  margin-bottom: 9px;
+  width: 30px;
+  height: 30px;
+  transform:rotate(180deg);
+}
+.compartilhar-profissional .task-master {
+  margin: 5px 0 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 26px;
+  color: #FFFFFF;
+}
+.compartilhar-profissional .silhueta-negra-de-casa-sem-porta-21 {
+  background: 50% / cover no-repeat;
+  margin-top: 4px;
+  width: 35px;
+  height: 35px;
+}
+.compartilhar-profissional .group-57 {
+  background: #333333;
+  position: relative;
+  margin-bottom: 102px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 23px 23px 22px 15px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.compartilhar-profissional .default-draw-aface-man-in-color-32 {
+  border-radius: 75px;
+  background: url('images/default_draw_aface_man_in_color_321.jpeg') 50% / cover no-repeat;
+  margin: 0 1px 12px 0;
+  width: 128px;
+  height: 128px;
+  z-index: 1;
+}
+.compartilhar-profissional .joo-dos-santos {
+  margin: 0 1px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.compartilhar-profissional .cabelereiro {
+  margin-right: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.compartilhar-profissional .image-18 {
+  background: url('images/image_18.png') 50% / cover no-repeat;
+  margin: 8px 0 7.4px 0;
+  width: 120px;
+  height: 14.6px;
+}
+.compartilhar-profissional .compartilhar-3 {
+  background: url('images/compartilhar_3.png') 50% / cover no-repeat;
+  width: 30px;
+  height: 30px;
+}
+.compartilhar-profissional .container-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  width: 200px;
+  box-sizing: border-box;
+}
+.compartilhar-profissional .container {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 51px 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px 9px 10px 9px;
+  width: 297px;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.compartilhar-profissional .experincia-10-anos-como-cabelereiro-ebarbeiro-idade-35-anos-formao-2-grau-completo-estado-civil-casado-cursos-profissionalizantes-corte-ebarba-bsico-ao-avanado-obs-sempre-atento-ao-mercado-buscando-novas-experincias-eaprendizados {
+  margin: 0 40.3px 7px 30px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.compartilhar-profissional .image-30 {
+  background: url('images/image_30.png') 50% / cover no-repeat;
+  width: 428px;
+  height: 374.4px;
+  z-index: 1;
+}
+.compartilhar-profissional .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.compartilhar-profissional .rectangle-13 {
+  background: linear-gradient(90deg, rgba(129, 188, 243, 0.5), rgba(1, 92, 174, 0.5), rgba(62, 162, 253, 0.5));
+  position: absolute;
+  left: 9px;
+  top: 93px;
+  right: 0px;
+  height: 180px;
+  width: 98.9%;
+}
+.compartilhar-profissional {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  box-sizing: border-box;
+}
