@@ -1,0 +1,70 @@
+/* suporte.css */
+.seta-direita-1 {
+  background: url('images/seta_direita_1.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 30px;
+  height: 30px;
+  transform:rotate(180deg);
+}
+.task-master {
+  margin: 4px 0 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 26px;
+  color: #FFFFFF;
+}
+.silhueta-negra-de-casa-sem-porta-21 {
+  background: 50% / cover no-repeat;
+  margin-top: 3px;
+  width: 35px;
+  height: 35px;
+}
+  .group-57 {
+  background: #333333;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 23px 22px 15px;
+  width: 100%;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: linear-gradient(90deg, rgba(129, 188, 243, 0.5), rgba(1, 92, 174, 0.5), rgba(62, 162, 253, 0.5));
+  border-radius: 0 0 25px 25px;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+.contact-options {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.email, .whatsapp {
+  text-align: center;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
